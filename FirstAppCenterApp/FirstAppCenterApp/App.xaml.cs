@@ -20,6 +20,7 @@ namespace FirstAppCenterApp
         {
             AppCenter.Start("android=90bf8591-e34e-4e59-8027-e531e9d9e4f7;", 
                 typeof(Analytics), typeof(Crashes));
+
         }
 
 
